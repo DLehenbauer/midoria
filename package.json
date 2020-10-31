@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "repository": "git@github.com:DLehenbauer/mm.git",
+  "author": "Daniel Lehenbauer <DLehenbauer@users.noreply.github.com>",
+  "license": "MIT",
+  "workspaces": [
+    "site"
+  ]
+}
