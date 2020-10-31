@@ -1,0 +1,7 @@
+# Note: Patterns in this '.gitignore' should be scoped to artifacts of the yarn workspace.
+#
+#       Modules contained within the monorepo should declare their own '.gitignore' files
+#       so that they can function independently as top-level packages.
+
+# NPM dependencies (root only)
+/node_modules
