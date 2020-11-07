@@ -1,9 +1,10 @@
 {
   "private": true,
-  "repository": "git@github.com:DLehenbauer/mm.git",
+  "repository": "https://github.com/DLehenbauer/midoria.git",
   "author": "Daniel Lehenbauer <DLehenbauer@users.noreply.github.com>",
   "license": "MIT",
   "workspaces": [
-    "site"
+    "site",
+    "packages/*"
   ]
 }
